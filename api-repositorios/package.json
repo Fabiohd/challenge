@@ -1,0 +1,14 @@
+{
+    "name": "api-repositorios",
+    "version": "1.0.0",
+    "description": "API para listar repositórios do GitHub",
+    "main": "api.js",
+    "scripts": {
+      "start": "node api.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "axios": "^1.5.0"
+    }
+  }
+  
